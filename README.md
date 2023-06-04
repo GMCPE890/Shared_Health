@@ -18,6 +18,6 @@ Install the addon to minecraft as usual
 
 Create a World then the setting you have to turn on is BETA APIs
 
-![20230605_001819](https://github.com/GMCPE890/Shared_Health/assets/83441588/1a24e409-8005-4a8e-b639-ec1a1c9272b7)
+![20230605_001819](https://github.com/GMCPE890/Shared_Health/assets/83441588/8495d98d-1846-491d-ab1c-cf45454de839)
 
 <p align="center">@Copyright By GMCPE890</p>
